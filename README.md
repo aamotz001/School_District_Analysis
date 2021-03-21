@@ -7,43 +7,47 @@ In this assignment, we were asked to use python through the jupyter notebook pla
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F1_Original%20Dist_Summary.png)
 
 **Figure 2: School Summary Data Frame**
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F2_Original%20School_Summary.png)
 
 ### Summary of District Parameters
 
 **Figure 3:Top and Bottom Performing Schools**
-
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F3_Top_Bottom_Schools.png)
 **Figure 4: Scores VS Spending per Student**
-
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F4_Scores_V_Spending.png)
 **Figure 5: Scores VS School Size**
-
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F5_Scores_V_Size.png)
 **Figure 6: Scores VS School Type**
-
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F6_Scores_V_Type.png)
 ### Influence of Academic Dishonesty
 
 - Effect on district summary
 
 **Figure 7: Adjusted District Summary Data Frame**
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F7_Adjusted_Dist_Summary.png)
 
 - Effect on school summary
 
 **Figure 8: Adjusted School Summary Data Frame**
-
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F8_Adjusted_School_Summary.png)
 **Figure 9: Adjusted Top and Bottom Performing Schools**
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9_Adjusted_Top_Bottom_Inc_9.png)
 
 - Effect on Thomas High School VS Others
 - Effect on Math/Reading Scores by grade
 - Effect on Scores by school spending
 
 **Figure 10: Adjusted Scores VS School Spending**
-
+![alt text](
 - Effect on schoolsize
 
-**Figure 10: Adjusted Scores VS School Size**
+**Figure 11: Adjusted Scores VS School Size**
+![alt text](
 
 - Effect on scores by school type
 
-**Figure 11: Adjusted Scores VS School Type**
-
+**Figure 12: Adjusted Scores VS School Type**
+![alt text](
 ## Summary of Conclusions
 4 major changes were
 1. one
