@@ -38,16 +38,16 @@ In this assignment, we were asked to use python through the jupyter notebook pla
 - Effect on Scores by school spending
 
 **Figure 10: Adjusted Scores VS School Spending**
-![alt text](
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F10_Adjusted_Scores_V_Spending.png)
 - Effect on schoolsize
 
 **Figure 11: Adjusted Scores VS School Size**
-![alt text](
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F11_Adjusted_Scores_V_Size.png)
 
 - Effect on scores by school type
 
 **Figure 12: Adjusted Scores VS School Type**
-![alt text](
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F12_Adjusted_Scores_V_Type.png)
 ## Summary of Conclusions
 4 major changes were
 1. one
