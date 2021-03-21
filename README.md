@@ -48,7 +48,7 @@ After submission of the district data, it was determined that academic dishonest
 **Figure 8: Adjusted School Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F8_Adjusted_School_Summary.png)
 **Figure 9: Adjusted Top and Bottom Performing Schools**
-![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9_Adjusted_Top_Bottom_Inc_9.png)
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9b_Adjusted_Top_Bottom_nInc_9.png)
 
 
 
