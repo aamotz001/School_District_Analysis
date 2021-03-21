@@ -11,16 +11,21 @@ Figure 1 above summarizes information for the district as a  whole. Important pa
 **Figure 2: School Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F2_Original%20School_Summary.png)
 
-Figure 2 above summerizes information per school in the district. The parameters include spending, pass/fail rate and average scores per school. 
-
-The data above gives us a metric in which to assess the budjet and efficacy of schools within the district.
+Figure 2 above summerizes information per school in the district. The parameters include spending, pass/fail rate and average scores per school. In total, the data above gives us a metric in which to assess the budjet and efficacy of schools within the district. We will further disect the information in order to draw further conclusions
 
 ### Summary of District Parameters
+First we would like to take a look at the top and bottom performing schools, as is summarized in the figure below.
 
 **Figure 3:Top and Bottom Performing Schools**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F3_Top_Bottom_Schools.png)
+
+The top/bottom schools out of 15 are shown (top are selected in green, bottom are selected in red).
+
 **Figure 4: Scores VS Spending per Student**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F4_Scores_V_Spending.png)
+
+Next we want to assess the performance according to the per-student spending, which is shown above. 
+
 **Figure 5: Scores VS School Size**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F5_Scores_V_Size.png)
 **Figure 6: Scores VS School Type**
