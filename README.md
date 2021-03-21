@@ -6,6 +6,7 @@ In this assignment, we were asked to use python through the jupyter notebook pla
 **Figure 1: Original District Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F1_Original%20Dist_Summary.png)
 
+Figure 1 above summarizes information for the district as a  whole. Important parameters include total spending, as well as 
 **Figure 2: School Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F2_Original%20School_Summary.png)
 
