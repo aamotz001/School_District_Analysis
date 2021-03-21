@@ -24,18 +24,21 @@ The top/bottom schools out of 15 are shown (top are selected in green, bottom ar
 **Figure 4: Scores VS Spending per Student**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F4_Scores_V_Spending.png)
 
-Next we want to assess the performance according to the per-student spending, which is shown above. Perhaps suprisingly, there appears to be an inverse relationship between per-student spending and overall student performance. Most likely this is because we are comparing charter and district schools together in the same data set. It is clear that the large schools seem to be severely underperforming compared to medium and small schools. This could be because student resources are overtaxed at large schools, or simply that larger amounts of students make it difficult to ensure that the students pass.
+Next we want to assess the performance according to the per-student spending, which is shown above. Perhaps suprisingly, there appears to be an inverse relationship between per-student spending and overall student performance. Most likely this is because we are comparing charter and district schools together in the same data set. 
 
 **Figure 5: Scores VS School Size**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F5_Scores_V_Size.png)
 
-We also want to consider the student performance at schools of different sizes (here, size means the number of students at the school)
+We also want to consider the student performance at schools of different sizes (here, size means the number of students at the school). It is clear that the large schools seem to be severely underperforming compared to medium and small schools. This could be because student resources are overtaxed at large schools, or simply that larger amounts of students make it difficult to ensure that the students pass.
 
 **Figure 6: Scores VS School Type**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F6_Scores_V_Type.png)
+
+Finally, we consider performance between the two types of schools (district and charter). There is a clear outperformance by the charter schools as compared by the district schools. This reflects a larger discussion which exists about the equity of having charter schools within the same district.
+
 ### Influence of Academic Dishonesty
 
-- Effect on district summary
+After submission of the district data, it was determined that academic dishonesty had occured. Specifically, the scores of the entire ninth grade class of thomas high school have been comprimised.
 
 **Figure 7: Adjusted District Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F7_Adjusted_Dist_Summary.png)
