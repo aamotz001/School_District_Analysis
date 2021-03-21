@@ -4,7 +4,7 @@ School district analysis for module 4# PyBer_Analysis
 In this assignment, we were asked to use python through the jupyter notebook platform to analyze data sets containing student performance statistics for a given school district, and the spending information per school within the school district. The data set contains a list of all the students in the district, and includes their math/reading grades, the name of the school they attend, and their year in high school. The initial review of the data set revealed some anomalies, such as incorrect titles for students (eg "Dr.") as such, the first task was to clean the data and make it suitable for analysis. Then, the data was combined into a super set containing all the information, such as spending per school or per student and grade status. The initial review ended up revieling academic dishonesty, so the data set had to be adjusted to remove the scores which artificially affected the overall district statistics
 ## **Results**
 **Figure 1: Original District Summary Data Frame**
-![alt text](Images_for_Analysis/F1_Original Dist_Summary.png)
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F1_Original%20Dist_Summary.png)
 
 **Figure 2: School Summary Data Frame**
 
