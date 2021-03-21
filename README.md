@@ -38,17 +38,19 @@ Finally, we consider performance between the two types of schools (district and 
 
 ### Influence of Academic Dishonesty
 
-After submission of the district data, it was determined that academic dishonesty had occured. Specifically, the scores of the entire ninth grade class of thomas high school have been comprimised.
+After submission of the district data, it was determined that academic dishonesty had occured. Specifically, the scores of the entire ninth grade class of thomas high school have been comprimised. In order to mitigate the influence of the academic dishonesty, we have eliminated those students from the data sets and redone the entire analysis. 
 
 **Figure 7: Adjusted District Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F7_Adjusted_Dist_Summary.png)
 
-- Effect on school summary
+- Effect on school summary: as shown in the figure above, the overall school statistics only changed by a small amount in the reading, math and overall passing categories. This is not suprising since the amount of students removed (around 400) was quite small compared to the overall students (37000). As well, we can look at the school data and top/bottom schools, which did show more of a change. (shown in the figures below).
 
 **Figure 8: Adjusted School Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F8_Adjusted_School_Summary.png)
 **Figure 9: Adjusted Top and Bottom Performing Schools**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9_Adjusted_Top_Bottom_Inc_9.png)
+
+
 
 - Effect on Thomas High School VS Others
 - Effect on Math/Reading Scores by grade
