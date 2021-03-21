@@ -24,10 +24,13 @@ The top/bottom schools out of 15 are shown (top are selected in green, bottom ar
 **Figure 4: Scores VS Spending per Student**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F4_Scores_V_Spending.png)
 
-Next we want to assess the performance according to the per-student spending, which is shown above. 
+Next we want to assess the performance according to the per-student spending, which is shown above. Perhaps suprisingly, there appears to be an inverse relationship between per-student spending and overall student performance. Most likely this is because we are comparing charter and district schools together in the same data set. It is clear that the large schools seem to be severely underperforming compared to medium and small schools. This could be because student resources are overtaxed at large schools, or simply that larger amounts of students make it difficult to ensure that the students pass.
 
 **Figure 5: Scores VS School Size**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F5_Scores_V_Size.png)
+
+We also want to consider the student performance at schools of different sizes (here, size means the number of students at the school)
+
 **Figure 6: Scores VS School Type**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F6_Scores_V_Type.png)
 ### Influence of Academic Dishonesty
