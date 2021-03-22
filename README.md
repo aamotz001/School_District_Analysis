@@ -48,38 +48,36 @@ After submission of the district data, it was determined that academic dishonest
 **Figure 8: Adjusted School Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F8_Adjusted_School_Summary.png)
 
-- As can be seen, the ordering of top-to-bottom performing schools has changed as well. Below, is the recalculated school summary with the failing 9th graders included.
+- As can be seen, the ordering of top-to-bottom performing schools has changed as well. Below, is the recalculated school summary with the failing 9th graders included. The scores drop dramaticly.
 
 **Figure 9.a: Adjusted Top and Bottom Performing Schools (Including 9th Graders)**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9a_Adjusted_School_Summary_9inc.png)
 
 The recalculated school summary is then adjusted for new numbers with removing the 9th graders of Thomas high completely
 
-**Figure 9.b: Adjusted Top and Bottom Performing Schools (9th Grade Removed)**
-![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9b_Adjusted_School_Summary_9ninc.png)
+**Figure 9: Adjusted Top and Bottom Performing Schools (9th Grade Removed)**
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/9a_Adjusted_School_Summary_9ninc.png)
 
+- Effect on Thomas High School VS Others: clearly the performance of Thomas High School decreased in all senses. This makes sense as academic dishonesty disproportionately represents a school as passing rather than failing.
 
+- Effect on Math/Reading Scores by grade: The 9th grade class was clearly effected the most, which is obvious since that was the class with the offending students
 
-- Effect on Thomas High School VS Others
-- Effect on Math/Reading Scores by grade
-- Effect on Scores by school spending
-
+-Effect of student spending vs performance: only one spending range was affected (as only one school was involved, this would be expected)
 **Figure 10: Adjusted Scores VS School Spending**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F10_Adjusted_Scores_V_Spending.png)
-- Effect on schoolsize
+
+- Effect on schoolsize vs performance: again, only the size category for Thomas high school (around 1600 students) was affected.
 
 **Figure 11: Adjusted Scores VS School Size**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F11_Adjusted_Scores_V_Size.png)
 
-- Effect on scores by school type
+- Effect on scores by school type: the charter school type decreased in performance but stayed well above the district.
 
 **Figure 12: Adjusted Scores VS School Type**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F12_Adjusted_Scores_V_Type.png)
 ## Summary of Conclusions
-4 major changes were
-1. one
-2. two
-3. three
-4. four
-
-In conclusion
+4 major changes were:
+1. In the district summary, the math, reading and overall passing percentages all decreased slightly
+2. Thomas high school fell from the 2cd to the top performing school to the
+3. The 9th grade overall performance decreased
+4.  The charter school performance dropped relative to the original calculation, but still remained well above the district schools.
