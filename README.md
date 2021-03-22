@@ -4,7 +4,7 @@ School district analysis for module 4# PyBer_Analysis
 In this assignment, we were asked to use python through the jupyter notebook platform to analyze data sets containing student performance statistics for a given school district, and the spending information per school within the school district. The data set contains a list of all the students in the district, and includes their math/reading grades, the name of the school they attend, and their year in high school. The initial review of the data set revealed some anomalies, such as incorrect titles for students (eg "Dr.") as such, the first task was to clean the data and make it suitable for analysis. Then, the data was combined into a super set containing all the information, such as spending per school or per student and grade status. The initial review ended up revieling academic dishonesty, so the data set had to be adjusted to remove the scores which artificially affected the overall district statistics
 ## **Results**
 **Figure 1: Original District Summary Data Frame**
-![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F3_Top_Bottom_Schools.png)
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F1_Original%20Dist_Summary.png)
 
 Figure 1 above summarizes information for the district as a  whole. Important parameters include total spending, as well as the pass/fail percentage of students by subject and overall. 
 
@@ -47,8 +47,16 @@ After submission of the district data, it was determined that academic dishonest
 
 **Figure 8: Adjusted School Summary Data Frame**
 ![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F8_Adjusted_School_Summary.png)
-**Figure 9: Adjusted Top and Bottom Performing Schools**
-![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9b_Adjusted_Top_Bottom_nInc_9.png)
+
+- As can be seen, the ordering of top-to-bottom performing schools has changed as well. Below, is the recalculated school summary with the failing 9th graders included.
+
+**Figure 9.a: Adjusted Top and Bottom Performing Schools (Including 9th Graders)**
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9a_Adjusted_School_Summary_9inc.png)
+
+The recalculated school summary is then adjusted for new numbers with removing the 9th graders of Thomas high completely
+
+**Figure 9.b: Adjusted Top and Bottom Performing Schools (9th Grade Removed)**
+![alt text](https://github.com/aamotz001/School_District_Analysis/blob/main/Images_for_Analysis/F9b_Adjusted_School_Summary_9ninc.png)
 
 
 
